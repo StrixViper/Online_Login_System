@@ -1,0 +1,491 @@
+Acapulco  
+Aguascalientes  
+Ajijic  
+Alvarado  
+Ameca  
+Apizaco  
+Arandas  
+Atitalaquia  
+Atizapán de Zaragoza  
+Atlacomulco  
+Azcapotzalco  
+Bacalar  
+Bajo Grande  
+Banderilla  
+Barceloneta  
+Boca del Río  
+Campeche  
+Cancún  
+Celaya  
+Chetumal  
+Chihuahua  
+Chilpancingo  
+Cholula  
+Ciudad Guzmán  
+Ciudad Juárez  
+Ciudad Mante  
+Ciudad Obregón  
+Ciudad Valles  
+Coatzacoalcos  
+Colima  
+Comalcalco  
+Córdoba  
+Cuernavaca  
+Culiacán  
+Cuitláhuac  
+Durango  
+Ensenada  
+Escuinapa  
+Guadalajara  
+Guaymas  
+Guanajuato  
+Hermosillo  
+Huejutla  
+Irapuato  
+Ixtapa  
+Izamal  
+La Paz  
+Lagos de Moreno  
+Lázaro Cárdenas  
+León  
+Los Cabos  
+Loreto  
+Mazatlán  
+Mexicali  
+Mexico City  
+Mérida  
+Mineral de la Reforma  
+Monterrey  
+Monclova  
+Morelia  
+Mula  
+Nuevo Laredo  
+Oaxaca  
+Pachuca  
+Piedras Negras  
+Puebla  
+Puerto Vallarta  
+Querétaro  
+Reynosa  
+Saltillo  
+San Luis Potosí  
+San Miguel de Allende  
+Santa Catarina  
+Santiago de Querétaro  
+Sinaloa  
+Tampico  
+Tepic  
+Tequila  
+Texcoco  
+Tlalnepantla  
+Tula de Allende  
+Tulum  
+Tuxtla Gutiérrez  
+Veracruz  
+Villahermosa  
+Zacatecas  
+Zihuatanejo  
+Zumpango  
+Acambay  
+Aculco  
+Amecameca  
+Anáhuac  
+Apodaca  
+Arcelia  
+Apatzingán  
+Asturias  
+Axochiapan  
+Ayutla de los Libres  
+Bacánoh  
+Boca de Huérgano  
+Chachapa  
+Chalco  
+Chiconcuac  
+Chilapa  
+Cholula  
+Chumatlán  
+Cozumel  
+Cuautla  
+Cuitláhuac  
+Cuetzalan  
+Cuyoaco  
+Díaz Ordaz  
+Ecatzingo  
+Ejido de Chilpancingo  
+El Fuerte  
+El Oro  
+Eloxochitlán  
+Fresnillo  
+Guasave  
+Guerrero  
+Hualahuises  
+Ixtapaluca  
+Jalapa  
+Jilotepec  
+La Magdalena Contreras  
+La Piedad  
+Lagos de Moreno  
+La Magdalena  
+León  
+Lerdo  
+Linares  
+Loreto  
+Los Mochis  
+Malinalco  
+Mazatlán  
+Mérida  
+Navojoa  
+Nogales  
+Ojuelos  
+Ocosingo  
+Pachuca de Soto  
+Piedras Negras  
+Puebla de Zaragoza  
+Palenque  
+Pénjamo  
+Pueblo Nuevo  
+Puerto Escondido  
+Puerto Peñasco  
+Punta de Mita  
+Querétaro  
+Rosarito  
+San Andrés Tuxtla  
+San Felipe  
+San Ignacio  
+San Juan del Río  
+San Luis Potosí  
+San Miguel Totolapan  
+San Pedro Tlaquepaque  
+San Vicente  
+Santa Ana  
+Tepatitlán  
+Tequila  
+Texcoco  
+Tizayuca  
+Tlalnepantla de Baz  
+Tula de Allende  
+Tulum  
+Tuxtla Gutiérrez  
+Veracruz  
+Xalapa  
+Zacatecas  
+Zamora  
+Zumpango  
+Zihuatanejo  
+Acajete  
+Acala  
+Ahualulco  
+Amecameca  
+Atlixco  
+Balbuena  
+Benito Juárez  
+Boca del Río  
+Bocoyna  
+Cadereyta  
+Cajeme  
+Campeche  
+Cananea  
+Capulálpam  
+Celaya  
+Chihuahua  
+Chimalhuacán  
+Chimalhuacán  
+Cholula  
+Ciudad Ayala  
+Ciudad del Carmen  
+Ciudad Hidalgo  
+Ciudad Obregón  
+Ciudad Valles  
+Coacalco  
+Cocula  
+Colima  
+Comonfort  
+Coquimatlán  
+Cortez  
+Cuernavaca  
+Cuetzalan  
+Durango  
+Ecatepec  
+Escuinapa  
+Fresnillo  
+Fresno  
+Guachochi  
+Guadalajara  
+Guasave  
+Guanajuato  
+Hidalgo  
+Huatulco  
+Huauchinango  
+Iztacalco  
+Ixtapaluca  
+Ixtlahuaca  
+Jalpa  
+La Magdalena  
+La Piedad  
+León  
+Lázaro Cárdenas  
+Los Angeles  
+Los Mochis  
+Mazatlán  
+Mazatlán  
+Mexico City  
+Monclova  
+Monterrey  
+Morelia  
+Navojoa  
+Nicolás Romero  
+Oaxaca  
+Palenque  
+Puebla  
+Puerto Escondido  
+Piedras Negras  
+Puebla  
+San Andrés Cholula  
+San Juan del Río  
+San Luis Potosí  
+San Miguel de Allende  
+Tepic  
+Texcoco  
+Tlalnepantla  
+Tonalá  
+Tulum  
+Tuxtla  
+Uruapan  
+Veracruz  
+Villahermosa  
+Zacatlán  
+Zacatecas
+Abasolo
+Acayucan
+Acolman
+Acámbaro
+Ahuacatlán
+Ahualulco de Mercado
+Ajijic
+Alamos
+Amatán
+Ameca
+Amecameca
+Apaseo el Alto
+Apaseo el Grande
+Arandas
+Atenco
+Atizapán de Zaragoza
+Atlacomulco
+Atlautla
+Atoyac de Álvarez
+Ayutla de los Libres
+Benito Juárez
+Boca del Río
+Bocoyna
+Cadereyta Jiménez
+Cajeme
+Campeche
+Campo Grande
+Cañitas de Felipe Pescador
+Capulálpam de Méndez
+Castilla
+Cerro Azul
+Chacaltianguis
+Chalco
+Chalpatlahuac
+Chiconcuac
+Chignahuapan
+Chilapa de Álvarez
+Chihuahua
+Chilpancingo
+Chimalhuacán
+Chinameca
+Cholula
+Cihuatlán
+Culiacán Rosales
+Cuautla
+Cuetzalan
+Cuernavaca
+Cuitláhuac
+Cuyutlán
+Cozumel
+Coatzacoalcos
+Comalcalco
+Comonfort
+Corral de Piedra
+Cuautitlán
+Cruz Grande
+Cuernavaca
+Escuinapa
+El Fuerte
+Ensenada
+Epazoyucan
+Fresnillo
+Guachochi
+Guadalupe
+Guadalajara
+Guasave
+Guanajuato
+Guerrero
+Hermosillo
+Hidalgo del Parral
+Hualahuises
+Huauchinango
+Irapuato
+Ixtapa
+Ixtlahuaca
+Jalisco
+Jaltenco
+Jamay
+Jiquilpan
+Jocotepec
+Juchitán de Zaragoza
+La Magdalena
+La Magdalena Contreras
+La Piedad
+Lagos de Moreno
+Lázaro Cárdenas
+León
+Lerdo
+Los Cabos
+Los Reyes
+Madera
+Malinalco
+Manzanillo
+Mazatlán
+Mazatlán
+Mexicali
+Mexico City
+Minatitlán
+Monclova
+Monterrey
+Morelia
+Mulegé
+Navojoa
+Navolato
+Nezahualcóyotl
+Nogales
+Nonoalco
+Oaxaca
+Ocotlán
+Ocosingo
+Ojinaga
+Pachuca de Soto
+Palenque
+Pánuco
+Parácuaro
+Pátzcuaro
+Peñjamillo
+Perote
+Piedras Negras
+Pijijiapan
+Puebla
+Punta de Mita
+Querétaro
+Reynosa
+Río Bravo
+Rosarito
+San Andrés Tuxtla
+San Felipe
+San Fernando
+San Ignacio
+San Juan del Río
+San Luis Potosí
+San Miguel de Allende
+San Pedro Tlaquepaque
+San Vicente
+Santa Ana
+Santiago Tuxtla
+Tecate
+Tepatitlán de Morelos
+Tequila
+Texcoco
+Tezoyuca
+Tlalnepantla de Baz
+Tlalpan
+Tlapa de Comonfort
+Tuxpan
+Tula de Allende
+Tulum
+Tuxtla Gutiérrez
+Uruapan
+Veracruz
+Villa de Álvarez
+Villahermosa
+Zacatecas
+Zamora
+Zihuatanejo
+Zumpango
+Zacualpan
+Zacualpan de Amilpas
+La Magdalena Contreras
+La Piedad
+La Magdalena
+La Pera
+Las Margaritas
+Lázaro Cárdenas
+León
+Lerdo
+Linares
+Loreto
+Los Mochis
+Malinalco
+Mazatlán
+Mazatlán
+Mexico City
+Monclova
+Monterrey
+Morelia
+Navojoa
+Nicolás Romero
+Oaxaca
+Palenque
+Puebla
+Puerto Escondido
+Piedras Negras
+Puebla
+San Andrés Cholula
+San Juan del Río
+San Luis Potosí
+San Miguel de Allende
+Tepic
+Texcoco
+Tlalnepantla
+Tonalá
+Tulum
+Tuxtla
+Uruapan
+Veracruz
+Villahermosa
+Zacatlán
+Zacatecas
+Zumpango
+Aguascalientes
+Cancún
+Veracruz
+Monterrey
+Zacatecas
+Morelia
+Saltillo
+Durango
+Mazatlán
+Culiacán
+Hermosillo
+León
+Tepatitlán
+Mazatlán
+Puebla
+Tulum
+Culiacán
+Oaxaca
+Tepic
+Guanajuato
+San Luis Potosí
+Guadalajara
+La Paz
+San Juan del Río
+Chihuahua
+Toluca
+Ciudad Juárez
+Hermosillo
+Xalapa
+Reynosa
+Mérida
+Fresnillo
+Mexicali

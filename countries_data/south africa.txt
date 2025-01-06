@@ -1,0 +1,336 @@
+Johannesburg
+Cape Town
+Durban
+Pretoria
+Port Elizabeth
+Bloemfontein
+East London
+Polokwane
+Nelspruit
+Kimberley
+George
+Pietermaritzburg
+Vereeniging
+Rustenburg
+Mbombela
+Stellenbosch
+Centurion
+Boksburg
+Richards Bay
+Welkom
+Upington
+Newcastle
+Paarl
+Mthatha
+Benoni
+Tzaneen
+Klerksdorp
+Umtata
+Port Shepstone
+Saldanha Bay
+Graaff-Reinet
+Louis Trichardt
+Clanwilliam
+Oudtshoorn
+Upington
+Ermelo
+Lydenburg
+Worcester
+Queenstown
+Ladybrand
+Bethlehem
+Krugersdorp
+Bellville
+Plettenberg Bay
+Sabie
+Hoedspruit
+De Aar
+Montagu
+Vredendal
+Swellendam
+Thohoyandou
+Caledon
+Komatipoort
+KZN Midlands
+Cape Winelands
+Hazyview
+Pinetown
+Malmesbury
+Stellenbosch
+Ballito
+Ceres
+Makhado
+Magaliesburg
+Oudtshoorn
+Mookgophong
+Riebeek West
+Barberton
+Stanger
+Mossel Bay
+Amersfoort
+Hermanus
+Ladysmith
+Germiston
+Port Alfred
+Edenvale
+Middelburg
+Grahamstown
+Mokopane
+Vanderbijlpark
+Springbok
+Montague Gardens
+Ceres
+Sasolburg
+Kroonstad
+Potchefstroom
+Upington
+Tzaneen
+Hazyview
+Worcester
+Saldanha
+Knysna
+Maputo
+Mthatha
+Diepkloof
+Vereeniging
+Swakopmund
+Vryheid
+Thohoyandou
+East London
+Vredendal
+Worcester
+Vanrhynsdorp
+Pinetown
+Piet Retief
+Gansbaai
+Gqeberha
+Caledon
+Burgersfort
+Stilbaai
+Klerksdorp
+Pretoria
+Gansbaai
+Barberton
+Worcester
+Secunda
+Ladysmith
+Wellington
+Colesberg
+Parys
+Bryanston
+Burgersfort
+Victoria Bay
+Ceres
+Mount Edgecombe
+Hoedspruit
+Limpopo
+Mbombela
+Bela-Bela
+Roodepoort
+Hermanus
+Grahamstown
+Krugersdorp
+Upington
+Vereeniging
+Somerset West
+Bloemfontein
+Parys
+Pietermaritzburg
+Newcastle
+Port Shepstone
+Wakkerstroom
+Dundee
+Postmasburg
+King Williams Town
+Oudtshoorn
+Nelspruit
+Sandton
+Pofadder
+Secunda
+Kathu
+Harrismith
+Tshwane
+Tzaneen
+Vanderbijlpark
+Mossel Bay
+Mthatha
+Stellenbosch
+Durbanville
+Langebaan
+Modimolle
+Mbombela
+Phalaborwa
+Vanderbijlpark
+Umtata
+Matatiele
+Mokopane
+White River
+Burgersfort
+Barberton
+Hazyview
+Eshowe
+Tzaneen
+Stellenbosch
+Paarl
+Worcester
+Thohoyandou
+North West
+Beaufort West
+Richmond
+Hillcrest
+Somerset West
+Pinetown
+Bethlehem
+Paternoster
+Lutzville
+Vredendal
+Komani
+Burgersfort
+Ficksburg
+Dundee
+Zeerust
+Pofadder
+Nelspruit
+Rustenburg
+Hermanus
+Uitenhage
+Amanzimtoti
+Vanderbijlpark
+Stanger
+Port Elizabeth
+Soweto
+Worcester
+Hazyview
+Limpopo
+Lydenburg
+Georgetown
+Burgersfort
+Lephalale
+Vanstadensrus
+Ladismith
+Tzaneen
+Greyton
+Kathu
+Barberton
+Middelburg
+De Aar
+Durban North
+Potchefstroom
+Barberton
+Port Alfred
+Beaufort West
+Cape Town
+Sutherland
+Vredenburg
+Kimberley
+Fraserburg
+Hankey
+Ladysmith
+Soweto
+Lephalale
+George
+Nelspruit
+Dullstroom
+Lichtenburg
+Stellenbosch
+Shongweni
+Hazyview
+Ceres
+George
+Mthatha
+Winterton
+Pretoria
+Paternoster
+Rawsonville
+Thohoyandou
+Phalaborwa
+Burgersfort
+Cape St. Francis
+Drakensberg
+Phuthaditjhaba
+Mossel Bay
+Heidelberg
+Rustenburg
+Paternoster
+Ceres
+Malelane
+Wellington
+Verulam
+Klerksdorp
+Boksburg
+Swakopmund
+Polokwane
+Bela-Bela
+Victoria West
+Thohoyandou
+Mossel Bay
+Amanzimtoti
+Sun City
+Port Shepstone
+Burgersfort
+Bela-Bela
+Stellenbosch
+Paternoster
+Sabie
+Vereeniging
+Lephalale
+Ballito
+Tzaneen
+Phalaborwa
+Kempton Park
+Thohoyandou
+Stellenbosch
+Barberton
+Port Alfred
+Groblersdal
+Boksburg
+Saldanha Bay
+Krugersdorp
+Pretoria
+Middelburg
+Ceres
+Cape Town
+Tzaneen
+Pietermaritzburg
+Umtata
+Burgersfort
+Lephalale
+Ladysmith
+Komatipoort
+Krugersdorp
+Mossel Bay
+Klerksdorp
+Limpopo
+Gauteng
+Paternoster
+Thohoyandou
+Polokwane
+Middelburg
+Wellington
+Victoria Bay
+Germiston
+Hazyview
+Vanderbijlpark
+Pretoria
+Ladysmith
+Mokopane
+Richards Bay
+Bellville
+Midrand
+Zeerust
+Germiston
+Phalaborwa
+Worcester
+Thohoyandou
+Hartenbos
+Tzaneen
+Pinetown
+Gqeberha
+Paternoster
+Pretoria
+White River
+Somerset West
+Kimberley
+Vanderbijlpark
+Upington
+Durban
