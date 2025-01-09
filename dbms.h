@@ -1084,8 +1084,7 @@ bool find_user(const char* username, const char* password) {
         if (strcmp(user.password, encryptedPassword) == 0) {
             return true; // User exists and password matches
         } else {
-            printf("user input password after encryption: %s \n",encryptedPassword);
-            printf("saved user password after encryption: %s \n",user.password);
+
             printf("Error: Incorrect password.\n");
         }
     }
@@ -1178,8 +1177,7 @@ bool Update_Password(User *user) {
     } else {
         printf("Error: User '%s' does not exist.\n", user->userName);
     }
-    printf("existing saved password: %s", existing_user.password);
-    printf("new saved password: %s", user->password);
+
     fclose(file);
     return false;
 }

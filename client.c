@@ -7,9 +7,8 @@
     #include "security.h"
     #include "loading.h"
     #include <winsock2.h>
-    #include "dbms.h"
+    //#include "dbms.h"
     #include "input_from_user.h"
-
 
     #pragma comment(lib, "ws2_32.lib")  // Link with Winsock library
 
@@ -83,6 +82,8 @@
     bool find_user_from_server(const char* username);
     bool send_login_to_server(const char* username, const char* password);
 
+    void clearInputBuffer();
+
     //-----------------------------------------//
 
 int main() {
@@ -124,7 +125,6 @@ void display_menu() {
         switch (choice) {
             case 1:
                 Login(&user);
-                ChangePassword(&user);
                 if(isLoggedIn)
                     {
                         display_loggedIn_menu(&user);
@@ -292,7 +292,14 @@ bool is_username_exists_in_file(const char* username) {
     return false;  // Username not found
 }
 
+void clearInputBuffer() {
+    while (getchar() != '\n' && getchar() != EOF);  // Clears the input buffer
+}
+
 void InputFirstName(User *user) {
+
+    clearInputBuffer();  // Clear any stray newlines or input
+
 
     while (1) {
         printf("Enter First Name: ");
@@ -463,7 +470,11 @@ void InputLocationDetails(User *user) {
             printf("No cities loaded for the given country.\n");
             return;
         }
+        break;
+    }
 
+    while(1)
+    {
         printf("Enter City: ");
         fgets(user->UserLocationDetails.city, MAX_NAME_LENGTH, stdin);
         user->UserLocationDetails.city[strcspn(user->UserLocationDetails.city, "\n")] = '\0';
@@ -798,8 +809,7 @@ void ChangePassword(User *user) {
     PrevPassword[strcspn(PrevPassword, "\n")] = 0; // Remove newline
     // Encrypt and verify the current password
     char *encrypted = encrypt_password(PrevPassword);
-        printf("your input password: %s \n",encrypted);
-        printf("user password saved: %s \n",user->password);
+
     if (strcmp(user->password, PrevPassword) == 0) {
         // Prompt for the new password
         printf("insert your new password\n");
@@ -807,7 +817,6 @@ void ChangePassword(User *user) {
         user->userRequest = CHANGE_PASSWORD;
 
 
-        printf("user password after encryption: %s ", user->password);
         // Send the updated user to the server
         ServerResponse response = send_user_to_server(user);
 

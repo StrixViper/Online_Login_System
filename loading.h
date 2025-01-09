@@ -3,7 +3,8 @@
 
 #include "validation.h"
 #include "security.h"
-#include "dbms.h"
+#include "input_from_user.h"
+//#include "dbms.h"
 
 #define MAX_COUNTRY_NAME_LENGTH 50
 #define FILENAME "users.dat"
@@ -68,7 +69,7 @@ int load_cities_from_file(const char *country, char cities[][MAX_COUNTRY_NAME_LE
     fclose(file);
     return i; // Return the number of cities read
 }
-
+/*
 void loadDatabaseFromFile(const char *fileName) {
     FILE *file = fopen(fileName, "r");
     if (!file) {
@@ -122,7 +123,7 @@ void loadDatabaseFromFile(const char *fileName) {
     fclose(file);
     printf("Database loaded from file: %s\n", fileName);
 }
-
+*/
 
 int load_user(const char* username, const char* password, User* user_out) {
     FILE* file = fopen(FILENAME, "rb"); // Open file for reading in binary mode
